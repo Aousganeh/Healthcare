@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Kamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Infrastructure\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Aousganeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aousganeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
