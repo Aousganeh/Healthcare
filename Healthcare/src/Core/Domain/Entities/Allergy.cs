@@ -14,4 +14,8 @@ public class Allergy : BaseEntity
     public AllergyType Type { get; set; }
     public AllergySeverity Severity { get; set; }
     public RiskLevel RiskLevel { get; set; }
+    
+    public DateTime IdentifiedDate { get; set; }
+    public bool IsLifeThreatening { get; set; }
+
 }
