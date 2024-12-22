@@ -17,5 +17,6 @@ public class Allergy : BaseEntity
     
     public DateTime IdentifiedDate { get; set; }
     public bool IsLifeThreatening { get; set; }
-
+ 
+    
 }
