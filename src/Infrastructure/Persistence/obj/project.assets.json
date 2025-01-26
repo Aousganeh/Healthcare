@@ -5197,11 +5197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Aousganeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Infrastructure\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5222,8 +5222,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Core\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Core\\Application\\Application.csproj"
+            "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Core\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Core\\Application\\Application.csproj"
             }
           }
         }
@@ -5236,7 +5236,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.200"
     },
@@ -5287,7 +5287,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

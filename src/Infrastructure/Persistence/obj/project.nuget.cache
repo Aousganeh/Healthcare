@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSlyePdLk9Q=",
+  "dgSpecHash": "mzhKg0Djxr4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Infrastructure\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aousganeh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Aousganeh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

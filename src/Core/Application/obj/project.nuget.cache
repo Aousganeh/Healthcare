@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lh7ZtMbw8ys=",
+  "dgSpecHash": "dhSGNtnutZQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aousganeh\\Desktop\\Projects\\Healthcare\\Healthcare\\src\\Core\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Aousganeh\\Desktop\\Healthcare\\src\\Core\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aousganeh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Aousganeh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -32,16 +32,6 @@
       "warningLevel": 1,
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.1 was resolved.",
       "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.Encodings.Web' 4.5.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-ghhp-997w-qr28",
-      "libraryId": "System.Text.Encodings.Web",
       "targetGraphs": [
         "net8.0"
       ]
